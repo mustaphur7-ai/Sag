@@ -1,0 +1,9 @@
+{
+  "asian_open_utc": "00:00",
+  "analysis_delay_minutes": 60,
+  "options_symbol": "GLD",
+  "xau_symbol": "XAUUSD=X",
+  "max_dte": 10,
+  "top_n": 10,
+  "band_pct": 0.1
+}
